@@ -1,5 +1,5 @@
 # Algorithms_py
-Repository for Algorithm problems. 
+Repository for solving algorithms with python.
 
 The file name is consist of three part that platform, problem number or name and state.
 
